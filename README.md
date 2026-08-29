@@ -10,8 +10,8 @@
 
 ## 📫 Contact
 
-- 📧 **Email**: [tavoado@gmail.com](mailto:tavoaod@gmail.com)
-- - 📧 **Email**: [tavoado@gmail.com](ochoadiazgustavoalberto@gmail.com)
+- 📧 **Email**: [ochoadiazgustavoalberto@gmail.com](mailto:tavoaod@gmail.com)
+- 📧 **Web**: [Gustavo Ochoa Dev](https://mi-portafolio-red-seven.vercel.app/)
 
 ---
 
